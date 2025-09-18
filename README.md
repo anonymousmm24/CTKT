@@ -1,1 +1,1 @@
-# Cross Task Knowledge Transfer for Rehearsal-Free Continual Learning
+# CROSS TASK KNOWLEDGE TRANSFER FOR REHEARSAL-FREE CONTINUAL LEARNING
